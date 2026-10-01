@@ -10,9 +10,9 @@ One set of brand files for every network, so every profile looks the same.
 | `banner-x.png` | X header | ✅ |
 | `banner-facebook.png` | Facebook cover | ✅ |
 | `banner-youtube.png` | YouTube banner | ✅ |
-| `logo.png` | Main logo, transparent background | missing |
-| `logo-white.png` | Logo for dark backgrounds | missing |
-| `logo-mark.png` | Icon only, for small spaces and watermarks on post images | missing |
-| `vizi.png` | Vizi, the presenter robot | missing |
+| `logo.png` | Main logo, transparent background | ✅ |
+| `logo-white.png` | Logo for dark backgrounds | ✅ |
+| `logo-mark.png` | Icon only, for small spaces and watermarks on post images | ✅ |
+| `vizi.png` | Vizi, the presenter robot | ✅ |
 
 The source designs live in Canva ("… — Vizoryo" designs). After editing one there, export it again and replace the file here under the same name — the URL stays the same.
